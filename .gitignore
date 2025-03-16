@@ -2,9 +2,6 @@
 .vscode
 
 # Ignore benchmark file
-**/bytecode/**
-**/abi/**
-**/json/**
 **/results/**
 
 
