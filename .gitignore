@@ -1,0 +1,26 @@
+# Ignore Visual Studio Code directory
+.vscode
+
+# Ignore benchmark file
+**/bytecode/**
+**/abi/**
+**/json/**
+**/results/**
+
+
+.classpath
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+.DS_Store
+execution/
+.env
+**/venv/**
